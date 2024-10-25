@@ -43,4 +43,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
           name: ghactions-sam-java-01
-          path: build/libs/HelloWorldFunction.jar
+          path: HelloWorldFunction/build/libs/HelloWorldFunction.jar
